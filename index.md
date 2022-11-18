@@ -14,5 +14,6 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 - [x] This item is complete ﾖｶﾞﾌｧｲﾔｰ
 - [ ] This item is not complete ﾖｶﾞﾌﾚｲﾑ
 
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 ![Image of Geese](https://octodex.github.com/images/yaktocat.png)
 
